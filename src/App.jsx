@@ -127,7 +127,7 @@ function App() {
       </form>
 
       <h2>Student List</h2>
-      <table border="1">
+      <table border="0">
         <thead>
           <tr>
             <th>Name</th>
